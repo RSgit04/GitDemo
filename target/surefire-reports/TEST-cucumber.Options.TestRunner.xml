@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="cucumber.Options.TestRunner" time="0.268" tests="1" errors="1" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="21"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Rajani\Downloads\eclipse-java-2024-06-R-win32-x86_64\APIFramework\target\test-classes;C:\Users\Rajani\Downloads\eclipse-java-2024-06-R-win32-x86_64\APIFramework\target\classes;C:\Users\Rajani\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar;C:\Users\Rajani\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar;C:\Users\Rajani\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar;C:\Users\Rajani\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Rajani\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Rajani\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Rajani\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Rajani\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Rajani\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\Rajani\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Rajani\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar;C:\Users\Rajani\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar;C:\Users\Rajani\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar;C:\Users\Rajani\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar;C:\Users\Rajani\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-java8\7.16.1\cucumber-java8-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-core\7.16.1\cucumber-core-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-gherkin\7.16.1\cucumber-gherkin-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.16.1\cucumber-gherkin-messages-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\gherkin\28.0.0\gherkin-28.0.0.jar;C:\Users\Rajani\.m2\repository\io\cucumber\messages\24.1.0\messages-24.1.0.jar;C:\Users\Rajani\.m2\repository\io\cucumber\tag-expressions\6.1.0\tag-expressions-6.1.0.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-expressions\17.1.0\cucumber-expressions-17.1.0.jar;C:\Users\Rajani\.m2\repository\io\cucumber\datatable\7.16.1\datatable-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-plugin\7.16.1\cucumber-plugin-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\docstring\7.16.1\docstring-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\html-formatter\21.3.0\html-formatter-21.3.0.jar;C:\Users\Rajani\.m2\repository\io\cucumber\junit-xml-formatter\0.3.0\junit-xml-formatter-0.3.0.jar;C:\Users\Rajani\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\Rajani\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Rajani\.m2\repository\net\jodah\typetools\0.6.3\typetools-0.6.3.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-java\7.16.1\cucumber-java-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-junit\7.16.1\cucumber-junit-7.16.1.jar;C:\Users\Rajani\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.17.0\jackson-databind-2.17.0.jar;C:\Users\Rajani\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.17.0\jackson-annotations-2.17.0.jar;C:\Users\Rajani\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.17.0\jackson-core-2.17.0.jar;C:\Users\Rajani\.m2\repository\net\bytebuddy\byte-buddy\1.14.9\byte-buddy-1.14.9.jar;C:\Users\Rajani\.m2\repository\org\codehaus\groovy\groovy\3.0.21\groovy-3.0.21.jar;C:\Users\Rajani\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Rajani\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Users\Rajani\Downloads\eclipse-java-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\Rajani\AppData\Local\Temp\surefire11402354516177323946\surefirebooter-20240912140441905_3.jar C:\Users\Rajani\AppData\Local\Temp\surefire11402354516177323946 2024-09-12T14-04-41_785-jvmRun1 surefire-20240912140441905_1tmp surefire_0-20240912140441905_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Rajani\Downloads\eclipse-java-2024-06-R-win32-x86_64\APIFramework\target\test-classes;C:\Users\Rajani\Downloads\eclipse-java-2024-06-R-win32-x86_64\APIFramework\target\classes;C:\Users\Rajani\.m2\repository\io\rest-assured\rest-assured\5.4.0\rest-assured-5.4.0.jar;C:\Users\Rajani\.m2\repository\org\apache\groovy\groovy\4.0.16\groovy-4.0.16.jar;C:\Users\Rajani\.m2\repository\org\apache\groovy\groovy-xml\4.0.16\groovy-xml-4.0.16.jar;C:\Users\Rajani\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Rajani\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Rajani\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Rajani\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Rajani\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Rajani\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\Rajani\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Rajani\.m2\repository\io\rest-assured\json-path\5.4.0\json-path-5.4.0.jar;C:\Users\Rajani\.m2\repository\org\apache\groovy\groovy-json\4.0.16\groovy-json-4.0.16.jar;C:\Users\Rajani\.m2\repository\io\rest-assured\rest-assured-common\5.4.0\rest-assured-common-5.4.0.jar;C:\Users\Rajani\.m2\repository\io\rest-assured\xml-path\5.4.0\xml-path-5.4.0.jar;C:\Users\Rajani\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-java8\7.16.1\cucumber-java8-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-core\7.16.1\cucumber-core-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-gherkin\7.16.1\cucumber-gherkin-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.16.1\cucumber-gherkin-messages-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\gherkin\28.0.0\gherkin-28.0.0.jar;C:\Users\Rajani\.m2\repository\io\cucumber\messages\24.1.0\messages-24.1.0.jar;C:\Users\Rajani\.m2\repository\io\cucumber\tag-expressions\6.1.0\tag-expressions-6.1.0.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-expressions\17.1.0\cucumber-expressions-17.1.0.jar;C:\Users\Rajani\.m2\repository\io\cucumber\datatable\7.16.1\datatable-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-plugin\7.16.1\cucumber-plugin-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\docstring\7.16.1\docstring-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\html-formatter\21.3.0\html-formatter-21.3.0.jar;C:\Users\Rajani\.m2\repository\io\cucumber\junit-xml-formatter\0.3.0\junit-xml-formatter-0.3.0.jar;C:\Users\Rajani\.m2\repository\io\cucumber\ci-environment\10.0.1\ci-environment-10.0.1.jar;C:\Users\Rajani\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Rajani\.m2\repository\net\jodah\typetools\0.6.3\typetools-0.6.3.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-java\7.16.1\cucumber-java-7.16.1.jar;C:\Users\Rajani\.m2\repository\io\cucumber\cucumber-junit\7.16.1\cucumber-junit-7.16.1.jar;C:\Users\Rajani\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.17.0\jackson-databind-2.17.0.jar;C:\Users\Rajani\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.17.0\jackson-annotations-2.17.0.jar;C:\Users\Rajani\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.17.0\jackson-core-2.17.0.jar;C:\Users\Rajani\.m2\repository\net\bytebuddy\byte-buddy\1.14.9\byte-buddy-1.14.9.jar;C:\Users\Rajani\.m2\repository\org\codehaus\groovy\groovy\3.0.21\groovy-3.0.21.jar;C:\Users\Rajani\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Rajani\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Rajani"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-04-16"/>
+    <property name="java.home" value="C:\Users\Rajani\Downloads\eclipse-java-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530\jre"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Rajani\Downloads\eclipse-java-2024-06-R-win32-x86_64\APIFramework"/>
+    <property name="style.color" value="always"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Rajani\AppData\Local\Temp\surefire11402354516177323946\surefirebooter-20240912140441905_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="21.0.3+9-LTS"/>
+    <property name="user.name" value="Rajani"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-21.0.3+9"/>
+    <property name="localRepository" value="C:\Users\Rajani\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\Rajani\AppData\Local\Temp\"/>
+    <property name="java.version" value="21.0.3"/>
+    <property name="user.dir" value="C:\Users\Rajani\Downloads\eclipse-java-2024-06-R-win32-x86_64\APIFramework"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Users\Rajani\Downloads\eclipse-java-2024-06-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.3.v20240426-1530\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/Rajani/Downloads/eclipse-java-2024-06-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551/jre/bin/server;C:/Users/Rajani/Downloads/eclipse-java-2024-06-R-win32-x86_64/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.4.v20240802-1551/jre/bin;C:\Program Files\Java\jdk-21\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Android;C:\Windows\System32;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\apache-maven-3.8.8-bin\apache-maven-3.8.8\bin;;C:\Users\Rajani\Downloads\eclipse-java-2024-06-R-win32-x86_64\eclipse;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="21.0.3+9-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="65.0"/>
+  </properties>
+  <testcase name="initializationError" classname="cucumber.Options.TestRunner" time="0.008">
+    <error message="Failed to parse resource at: file:///C:/Users/Rajani/Downloads/eclipse-java-2024-06-R-win32-x86_64/APIFramework/src/test/java/features/placeValidations.feature&#10;(18:4): expected: #TagLine, #RuleLine, #Comment, #Empty, got &apos;Given DeletePlace Payload&apos;&#10;(19:4): expected: #TagLine, #RuleLine, #Comment, #Empty, got &apos;When user calls &quot;deletePlaceAPI&quot; with &quot;Post&quot; http request&apos;&#10;(20:4): expected: #TagLine, #RuleLine, #Comment, #Empty, got &apos;Then the api call got success with status code 200&apos;&#10;(21:4): expected: #TagLine, #RuleLine, #Comment, #Empty, got &apos;And &quot;status&quot; in response body is &quot;OK&quot;&apos;&#10;(22:0): unexpected end of file, expected: #TagLine, #RuleLine, #Comment, #Empty" type="io.cucumber.core.gherkin.FeatureParserException"><![CDATA[io.cucumber.core.gherkin.FeatureParserException: 
+Failed to parse resource at: file:///C:/Users/Rajani/Downloads/eclipse-java-2024-06-R-win32-x86_64/APIFramework/src/test/java/features/placeValidations.feature
+(18:4): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'Given DeletePlace Payload'
+(19:4): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'When user calls "deletePlaceAPI" with "Post" http request'
+(20:4): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'Then the api call got success with status code 200'
+(21:4): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'And "status" in response body is "OK"'
+(22:0): unexpected end of file, expected: #TagLine, #RuleLine, #Comment, #Empty
+	at io.cucumber.core.gherkin.messages.GherkinMessagesFeatureParser.parse(GherkinMessagesFeatureParser.java:56)
+	at io.cucumber.core.feature.FeatureParser.parseResource(FeatureParser.java:46)
+	at java.base/java.util.function.BiFunction.lambda$andThen$0(BiFunction.java:70)
+	at io.cucumber.core.resource.ResourceScanner.lambda$processResource$1(ResourceScanner.java:79)
+	at io.cucumber.core.resource.PathScanner$ResourceFileVisitor.visitFile(PathScanner.java:75)
+	at io.cucumber.core.resource.PathScanner$ResourceFileVisitor.visitFile(PathScanner.java:60)
+	at java.base/java.nio.file.Files.walkFileTree(Files.java:2786)
+	at io.cucumber.core.resource.PathScanner.findResourcesForPath(PathScanner.java:53)
+	at io.cucumber.core.resource.PathScanner.findResourcesForUri(PathScanner.java:31)
+	at io.cucumber.core.resource.ResourceScanner.findResourcesForUri(ResourceScanner.java:61)
+	at io.cucumber.core.resource.ResourceScanner.scanForResourcesUri(ResourceScanner.java:134)
+	at io.cucumber.core.runtime.FeaturePathFeatureSupplier.loadFeatures(FeaturePathFeatureSupplier.java:62)
+	at io.cucumber.core.runtime.FeaturePathFeatureSupplier.get(FeaturePathFeatureSupplier.java:45)
+	at io.cucumber.junit.Cucumber.<init>(Cucumber.java:156)
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.junit.internal.builders.AnnotatedBuilder.buildRunner(AnnotatedBuilder.java:29)
+	at org.junit.internal.builders.AnnotatedBuilder.runnerForClass(AnnotatedBuilder.java:21)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:59)
+	at org.junit.internal.builders.AllDefaultPossibilitiesBuilder.runnerForClass(AllDefaultPossibilitiesBuilder.java:26)
+	at org.junit.runners.model.RunnerBuilder.safeRunnerForClass(RunnerBuilder.java:59)
+	at org.junit.internal.requests.ClassRequest.getRunner(ClassRequest.java:26)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:314)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeWithRerun(JUnit4Provider.java:240)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:214)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:155)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+]]></error>
+  </testcase>
+</testsuite>
